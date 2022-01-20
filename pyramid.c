@@ -23,7 +23,7 @@ int main()
      return 0;
    
 }
-int halfpyramid()
+int halfpyramid()                                               
 {
 	int a, b, row=10;
 	 printf("\n");
@@ -37,6 +37,7 @@ int halfpyramid()
       printf("\n");
    }
 }
+
 
 
 

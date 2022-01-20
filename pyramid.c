@@ -38,7 +38,5 @@ int halfpyramid()
    }
 }
 
-OUTPUT SCREENSHOT:
-![PRAMID](https://user-images.githubusercontent.com/96722046/150288676-e3e72170-5081-4752-ae93-39f12320316f.png)
 
 
